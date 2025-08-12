@@ -10,7 +10,7 @@ All on the House is a fun, web-based chore management app that turns household r
 - 💬 **Playful Gamification** — Keep chores lighthearted and competitive.
 
 ## Tech Stack
-- **Frontend:** React + TailwindCSS
+- **Frontend:** React + Vite + TailwindCSS
 - **Backend:** Node.js + Express
 - **Database:** Firebase / Supabase (planned)
 - **Deployment:** PWA (Progressive Web App) for cross-device support
